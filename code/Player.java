@@ -1,4 +1,4 @@
-package betmore_game;
+package betmore_game.Files;
 
 /**
  * Initaites a new instance of a player.

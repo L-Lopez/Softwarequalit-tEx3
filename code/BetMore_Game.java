@@ -1,4 +1,4 @@
-package betmore_game;
+package betmore_game.Files;
 
 /**
  * Initializes a new Game.

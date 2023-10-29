@@ -1,5 +1,7 @@
-package betmore_game;
-
+package betmore_game.Files;
+/**
+ * Creates two players and starts the game.
+ */
 public class Game_Chair {
 	
 	Player Computer;

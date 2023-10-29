@@ -1,4 +1,4 @@
-package betmore_game;
+package betmore_game.Files;
 
 /**
  * Class of a random number between 0 and 100.
